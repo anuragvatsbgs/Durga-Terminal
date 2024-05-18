@@ -1,3 +1,4 @@
+![Logo](https://github.com/anuragvatsbgs/Durga-Terminal/blob/main/logo.png)
 
 # Durga Terminal
 
