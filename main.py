@@ -1,4 +1,5 @@
 import subprocess
+print("Durga Terminal Version: 0.0.1\nCopyright (C) Anurag Kumar. All rights reserved.\n\nInstall the latest Terminal for new features and improvements! https://github.com/anuragvatsbgs/Durga-Terminal")
 def terminal():
     while True:
         command = input(">>> ")
