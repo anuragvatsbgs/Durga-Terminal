@@ -109,3 +109,18 @@ WMIC           Displays WMI information inside interactive command shell.
 
 For more information on tools see the command-line reference in the online help.
 ```
+
+## Authors
+
+- [@anuragvatsbgs](https://github.com/anuragvatsbgs)
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at anuragvatsbgs@outlook.com
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/anuragvatsbgs)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anuragvatsbgs)
