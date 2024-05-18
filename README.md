@@ -1,8 +1,7 @@
 
-# Edge Rewards Collector
+# Durga Terminal
 
-Collect points on edge by searching something on internet.
-
+Terminal Made With Python By ANURAG KUMAR
 
 ## Deployment
 
